@@ -22,7 +22,7 @@ server:
             enabled: true
 logging:
     config: classpath:log4j2.xml
-#    path: /home/jcala/blog/log/spring_log
+#    path: /home/jcala/blog/log/spring_log spring.mvc.favicon.enabled
 spring:
     velocity:
         cache: true
