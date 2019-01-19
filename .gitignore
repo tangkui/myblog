@@ -9,7 +9,6 @@ src/main/resources/static/lib/codemirror/mode/rpm/changes/
 arget/
 application-jcala.yml
 deploy/
-*.iml
 *.imi
 *.iws
 *.ipr
